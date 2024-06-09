@@ -29,7 +29,7 @@ import { DetailProductComponent } from './detail-product/detail-product.componen
   ],
   providers: [],
   bootstrap: [
-    DetailProductComponent
+    HomeComponent
   ]
 })
 export class AppModule { }
